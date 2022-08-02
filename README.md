@@ -3,9 +3,9 @@ Car claims for insurance
 
 https://public.tableau.com/profile/chris1406#!/vizhome/DVT_Christopher_24012021/Story1?publish=yes
 
-Executive Summary
+# Executive Summary
 
-Insights & Recommendations
+# Insights & Recommendations
 
 
 1. Female drivers car insurance claims are more than the Male drivers.
